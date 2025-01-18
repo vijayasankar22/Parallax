@@ -3,6 +3,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'poppins';
+    filter: hue-rotate(180deg);
+    
 }
 
 body {
@@ -65,7 +67,7 @@ a:hover{
     left:0;
     width: 100%;
     pointer-events: none;
-   filter: hue-rotate(90deg);
+   
     
 
 }
